@@ -1,16 +1,16 @@
 # ParcialHerr
-### Branch MENU
+## Branch MENU
 #### En esta branch se creo el archivo menu.py que contiene el codigo de el menu para el programa de cambiar letras a codigo ascii y a binario
-### Branch OPERATIONS
+## Branch OPERATIONS
 #### En esta branch se creo el archivo operations.py que contiene el codigo de las operaciones para cambiar palabras o letras a codigo ascii y a binario
 
-### Integrantes del grupo
+## Integrantes del grupo
 #### Sebastian Duran
 #### Usuario de git: Sebachin86
 #### Samuel Chacon 
 #### Usuario de git: SamuelCh25
 
-### Explicacion breve sobre como trabajar en el repositorio
+## Explicacion breve sobre como trabajar en el repositorio
 #### Se usa el git clone " url del repositorio " para clonar el repositorio de git en la maquina de nosotros y asi poder trabajar localmente
 #### Se usa el git branch "Nombre de la nueva rama" para crear una rama nueva en el repositorio locar 
 #### Se utiliza el git switch "Nombre de la rama existente" para cambiar a una rama del repositorio local
